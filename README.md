@@ -1,0 +1,1 @@
+This Project focuses on the Sentiment Analysis on the respective audio recordings. This project helps in gaining useful insights from audio files whose application ranges over various sectors such as Feedback of Customers at Helpdesk centers, Social media marketing etc.
